@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullo
+# Hi there, I'm Abdullo Front-end develope:clap:
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullo92&theme=dark&show_icons=true"/>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullo92&layout=compact)](https://github.com/abdullo92/github-readme-stats"/>
