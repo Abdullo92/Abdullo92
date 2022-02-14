@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullo
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abdullo92&theme=dark&show_icons=true"/>
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullo92&layout=compact)](https://github.com/abdullo92/github-readme-stats"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abdullo92&theme=dark&show_icons=true"/>
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullo92&layout=compact)](https://github.com/abdullo92/github-readme-stats"/>
 
 
 ## Languages and Tools:
